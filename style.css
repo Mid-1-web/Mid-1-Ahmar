@@ -92,6 +92,29 @@ hr{
 }
 
 
+/* button */
+.but{
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    margin: 20px;
+    margin-left: 200px;
+    font-family: kavoon, sans-serif;
+    background-color: #FA5B5B;
+    border: none;
+    border-radius: 50px;
+}
+
+.but:hover{
+    box-shadow: 4px 4px 10px #ff0000;
+}
+
+.qoute{
+    font-size: 25px;
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+}
 
 
 
